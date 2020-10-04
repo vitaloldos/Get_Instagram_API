@@ -35,6 +35,7 @@
 4. Загрузить файлы [ARM](https://github.com/vitaloldos/Get_Instagram_API/tree/master/arm) - [x86](https://github.com/vitaloldos/Get_Instagram_API/tree/master/x86)) и скопировать на устройство:
 
 ARM: `adb push libliger.so /data/data/com.instagram.android/lib-superpack-zstd/libliger.so`
+
 x86: `adb push libliger.so /data/data/com.instagram.android/lib-zstd/libliger.so`
 
 5. Открыть еще раз приложение Instagram (подождать несколько секунд) и затем закрыть его.
