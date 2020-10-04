@@ -1,10 +1,10 @@
 Instagram API access/README.md 
 
-#Instagram API access
+## Instagram API access
 
 Доступ к Instagram API для Android (ARM и x86) Версия 123.0.0.21.114
 
-##Требования
+## Требования
 
 * Последняя версия  JDK ([Загрузить](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html))
 
@@ -23,8 +23,7 @@ Instagram API access/README.md
 * ADB ([Загрузить](https://developer.android.com/studio/releases/platform-tools.html))
     *Genymotion установит ADB автоматически. Вы можете найти его `<Genymotion Installation path>/tools`*
     
-##Важно!!! 
-##Выполняйте все в указанной ниже последовательности:
+## Важно!!! Выполняйте все в указанной ниже последовательности:
 
 
 1. Установить Genymotion виртуальную машину и запустить ее.
